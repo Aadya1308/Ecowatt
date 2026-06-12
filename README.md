@@ -4,7 +4,7 @@
 
 EcoWatt is a deep learning-based energy forecasting system that predicts future electricity consumption using Long Short-Term Memory (LSTM) neural networks. The project leverages historical energy usage data to identify temporal patterns and generate accurate forecasts for future energy demand.
 
-Energy consumption forecasting plays a vital role in smart grid management, resource allocation, and sustainable energy planning. By applying LSTM networks to time-series data, EcoWatt demonstrates how deep learning can be used to model complex consumption trends and support data-driven decision-making.
+Energy consumption forecasting plays a vital role in smart grid management, resource allocation, and sustainable energy planning. By applying LSTM networks to time-series data, EcoWatt demonstrates how deep learning can be used to model complex consumption trends and support data-driven decision-making.The system enables proactive energy management by helping utilities and organizations optimize power distribution, reduce operational costs, and improve energy efficiency.
 
 ---
 
